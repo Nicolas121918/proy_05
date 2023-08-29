@@ -5,7 +5,7 @@ require("colors");
 //console.log(functions);
 process.stdout.write("Ejercicio\n\n");
 
-let nombreAprendiz = 'KevIN nicolas';
+let nombreAprendiz = 'KevIN nicolas.';
 let apellidoAprendiz= ' BeLTRaN rivera';
 
 let nombreCompletoAprendiz = nombreAprendiz[0].toUpperCase()+
